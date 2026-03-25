@@ -4,9 +4,9 @@ import { Badge } from '@/components/Badge';
 import { useScrollReveal } from '@/hooks/useScrollReveal';
 import styles from './Vision.module.css';
 
-const imgEllipse3 = "http://localhost:3845/assets/d47459b20e65813b2fbbf763d2830ee4193ecdb3.png";
-const imgEllipse4 = "http://localhost:3845/assets/44624765a5c6800652bae7568a8b584d21a2e7e2.png";
-const imgEllipse5 = "http://localhost:3845/assets/18951854d3270f6ce2748e86f0b4431faf9b16d5.png";
+const imgEllipse3 = "/avatar1.png";
+const imgEllipse4 = "/avatar2.png";
+const imgEllipse5 = "/avatar3.png";
 
 // Local images
 const lojaBg = "/images/ifood/loja_bg.png";
