@@ -2,10 +2,10 @@
 
 import styles from './Footer.module.css';
 
-const facebookIcon = 'http://localhost:3845/assets/698a83f634c46ed2766254e0af6dadb567fd0c70.svg';
-const instagramIcon = 'http://localhost:3845/assets/7643512209b55aa176b38f146c70636e62bcec13.svg';
-const linkedinIcon = 'http://localhost:3845/assets/7d8d48d6fc915429d68fe2862b46f3083b3d2c4d.svg';
-const ifoodLogo = 'http://localhost:3845/assets/2a15417159b9770ef8f3bb2196fed4b6d0909f0f.svg';
+const facebookIcon = '/logo-facebook.svg';
+const instagramIcon = '/logo-instagram.svg';
+const linkedinIcon = '/logo-linkedin.svg';
+const ifoodLogo = '/logo_footer.svg';
 
 export default function Footer() {
   return (
