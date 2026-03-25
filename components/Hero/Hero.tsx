@@ -5,7 +5,7 @@ import { useScrollReveal } from '@/hooks/useScrollReveal';
 import styles from './Hero.module.css';
 
 const heroImage = '/images/ifood/bg_ifood_ecossistema.png';
-const logoDecor = 'http://localhost:3845/assets/bca816e60507dce150c7dbad6981464dc5a59796.svg';
+const logoDecor = '/Logo_decoration.svg';
 
 export default function Hero() {
   const { ref, isVisible } = useScrollReveal();
