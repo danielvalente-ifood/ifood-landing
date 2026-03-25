@@ -4,7 +4,7 @@ import { Badge } from '@/components/Badge';
 import { useScrollReveal } from '@/hooks/useScrollReveal';
 import styles from './Integrated.module.css';
 
-const integrationImage = "/visao_integrada.png";
+const integrationImage = "/images/ifood/visao_integrada.png";
 const lojaIcon = "/images/ifood/loja-icon.png";
 const peopleIcon = "/images/ifood/people_icon.png";
 const starIcon = "/images/ifood/star_icon.png";

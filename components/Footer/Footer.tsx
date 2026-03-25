@@ -2,10 +2,10 @@
 
 import styles from './Footer.module.css';
 
-const facebookIcon = '/logo-facebook.svg';
-const instagramIcon = '/logo-instagram.svg';
-const linkedinIcon = '/logo-linkedin.svg';
-const ifoodLogo = '/logo_footer.svg';
+const facebookIcon = '/images/ifood/logo-facebook.svg';
+const instagramIcon = '/images/ifood/logo-instagram.svg';
+const linkedinIcon = '/images/ifood/logo-linkedin.svg';
+const ifoodLogo = '/images/ifood/logo_footer.svg';
 
 export default function Footer() {
   return (
