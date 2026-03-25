@@ -1,0 +1,30 @@
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #fafafc;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.navbarWrapper {
+  display: none;
+}
+
+.content {
+  flex: 1;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  margin-top: 0;
+  padding-top: 64px;
+}
+
+.iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  display: block;
+}

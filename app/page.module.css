@@ -1,0 +1,32 @@
+.container {
+  min-height: 100vh;
+  background-color: #fafafc;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.heroSection {
+  position: relative;
+  width: 100%;
+}
+
+.navbarWrapper {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 1600px;
+  z-index: 50;
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .navbarWrapper {
+    padding: 16px;
+  }
+}
