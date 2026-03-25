@@ -31,7 +31,7 @@ export default function Hero() {
           </h1>
 
           <p className={styles.description}>
-            An award-winning SEO agency with disciplines in digital marketing, design, and website development. focused on understanding you.
+            Delivery, salão, pagamentos e logística em um só lugar. Conecte sua operação, amplifique seu crescimento e ofereça a melhor experiência aos seus clientes.
           </p>
 
           <button className={styles.ctaButton}>
