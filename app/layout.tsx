@@ -3,8 +3,8 @@ import "./globals.css";
 import "./fonts.css";
 
 export const metadata: Metadata = {
-  title: "iFood Salão - Plataforma para Restaurantes",
-  description: "Conectando restaurantes com clientes através do iFood Salão",
+  title: "iFood Ecossistema - Sua plataforma pra crescer mais",
+  description: "Gerencie seu restaurante com um ecossistema completo: delivery, salão, pagamentos e logística integrados. Crescimento amplificado com inteligência de dados em tempo real.",
 };
 
 export default function RootLayout({
